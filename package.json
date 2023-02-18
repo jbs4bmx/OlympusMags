@@ -1,6 +1,6 @@
 {
 	"name": "OlympusMags",
-	"version": "350.0.1",
+	"version": "350.0.2",
 	"main": "src/OlympusMags.js",
 	"license": "NCSA",
 	"author": "AssAssIn",
