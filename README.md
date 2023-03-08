@@ -21,6 +21,10 @@ Hmm... There doesn't appear to be anything here.
 #
 
 ### Changelog:
+351.0.1
+  - Update for SPT 3.5.1
+  - Adjust to new blacklist system.
+
 350.0.3 (The I Fucked Up Update)
   - Set correct trader to Jaeger. Using incorrect trader caused an 'items' read error.
 
